@@ -1,4 +1,4 @@
 ## PHP Authentication
 
-## Description
+### Description
 Php Registration, Login & Landing page.
